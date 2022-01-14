@@ -4,25 +4,25 @@
             "id" : "1",
             "nombre":  "Bloodborne",
             "precio": 5000,
-            "imagen": "./Images/bloodborne.jpg"
+            "imagen": "./Images/PS4/bloodborneps4.jpg"
         },
         {
             "id":"2",
             "nombre":  "Ghost of Tsushima",
             "precio": 20000,
-            "imagen": "./Images/ghostt.jpg"
+            "imagen": "./Images/PS4/ghosttps4.jpg"
         },
         {
             "id":"3",
             "nombre":  "God of War 4",   
             "precio": 4600,
-            "imagen": "./Images/godofwar4.png"  
+            "imagen": "./Images/PS4/godofwar4ps4.png"  
          },
         {
             "id":"4",
             "nombre":  "Spider Man Miles",
             "precio": 21000,
-            "imagen": "./Images/spidermanmiles.jpg"
+            "imagen": "./Images/PS5/spidermanmilesps5.jpg"
         }
     ]
 
