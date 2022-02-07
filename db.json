@@ -24,6 +24,142 @@
             "precio": 21000,
             "imagen": "./Images/PS5/spidermanmilesps5.jpg"
         }
-    ]
+    ],
+                "Playstation4":[
+                        {
+                            "id": "5",
+                            "nombre":  "Assasins Creed Rogue",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/assasinscreedrogueps4.jfif"
+                        },
+                        {
+                            "id": "6",
+                            "nombre":  "Asassins Creed Valhalla",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/assasinsvalhallaps4.jpg"
+                        },
+                        {
+                            "id": "7",
+                            "nombre":  "Call of duty Modern Warfare",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/callofdutymoderwarfareps4.jpg"
+                        },
+                        {
+                            "id": "8",
+                            "nombre":  "Far Cry 5",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/farcry5ps4.jpg"
+                        },
+                        {
+                            "id": "9",
+                            "nombre":  "Darksider 2",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/darksider2ps4.jpg"
+                        },
+                        {
+                            "id": "10",
+                            "nombre":  "Guardianes de la Galaxia",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/guardianesps4.jpg"
+                        },
+                        {
+                            "id": "11",
+                            "nombre":  "Resident Evil 2",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/residentevil2ps4.jpg"
+                        },
+                        {
+                            "id": "12",
+                            "nombre":  "Rise of Tomb Raider",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/risetombraiderps4.jpg"
+                        },
+                        {
+                            "id": "13",
+                            "nombre":  "Uncharted 4",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/unchartedps4.jpg"
+                        },
+                        {
+                            "id": "14",
+                            "nombre":  "Until Down",
+                            "precio": 5000,
+                            "imagen": "../Images/PS4/untildownps4.jpg"
+                        }
+                ],
+            
+            "Playstation5":[
+            
+                        {
+                            "id": "15",
+                            "nombre":  "Battlefield",
+                            "precio": 5000,
+                            "imagen": "../Images/PS5/battlefieldps5.jpg"
+                        },
+                        {
+                            "id": "16",
+                            "nombre":  "Crash 4",
+                            "precio": 5000,
+                            "imagen": "../Images/PS5/crash4ps5.jpg"
+                        },
+                        {
+                            "id": "17",
+                            "nombre":  "Demon's Souls",
+                            "precio": 5000,
+                            "imagen": "../Images/PS5/demonsoulsps5.jpg"
+                        },
+                        {
+                            "id": "18",
+                            "nombre":  "Rachet and Clank",
+                            "precio": 5000,
+                            "imagen": "../Images/PS5/rachetandclankps5.jfif"
+                        },
+                        {
+                            "id": "19",
+                            "nombre":  "Vanguard",
+                            "precio": 5000,
+                            "imagen": "../Images/PS5/vanguardps5.jpg"
+                        },
+                        {
+                            "id": "20",
+                            "nombre":  "Resident Evil Village",
+                            "precio": 5000,
+                            "imagen": "../Images/PS5/villageps5.jfif"
+                        }
+            ],
+            "Switch":[
+                        {
+                            "id": "21",
+                            "nombre":  "Leyend of Zelda Breath of the Wild",
+                            "precio": 5000,
+                            "imagen": "../Images/SWITCH/leyendzeldaswitch.jpg"
+                        }
+            ],
+            "Xbox":[
+                        {
+                            "id": "22",
+                            "nombre":  "Far Cry 6",
+                            "precio": 5000,
+                            "imagen": "../Images/XBOX/farcry6xbox.jpg"
+                        },
+                        {
+                            "id": "23",
+                            "nombre":  "Gears of War",
+                            "precio": 5000,
+                            "imagen": "../Images/XBOX/gearsofwarxbox.jfif"
+                        },
+                        {
+                            "id": "24",
+                            "nombre":  "Just Cause 4",
+                            "precio": 5000,
+                            "imagen": "../Images/XBOX/justcause4.jfif"
+                        },
+                        {
+                            "id": "25",
+                            "nombre":  "Titanfall",
+                            "precio": 5000,
+                            "imagen": "../Images/XBOX/titanfallxbox.jpg"
+                        }
+            ]
 
 }
