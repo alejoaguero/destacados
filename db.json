@@ -30,61 +30,71 @@
                             "id": "5",
                             "nombre":  "Assasins Creed Rogue",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/assasinscreedrogueps4.jfif"
+                            "imagen": "../Images/PS4/assasinscreedrogueps4.jfif",
+                            "stock": 10
                         },
                         {
                             "id": "6",
                             "nombre":  "Asassins Creed Valhalla",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/assasinsvalhallaps4.jpg"
+                            "imagen": "../Images/PS4/assasinsvalhallaps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "7",
                             "nombre":  "Call of duty Modern Warfare",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/callofdutymoderwarfareps4.jpg"
+                            "imagen": "../Images/PS4/callofdutymoderwarfareps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "8",
                             "nombre":  "Far Cry 5",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/farcry5ps4.jpg"
+                            "imagen": "../Images/PS4/farcry5ps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "9",
                             "nombre":  "Darksider 2",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/darksider2ps4.jpg"
+                            "imagen": "../Images/PS4/darksider2ps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "10",
                             "nombre":  "Guardianes de la Galaxia",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/guardianesps4.jpg"
+                            "imagen": "../Images/PS4/guardianesps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "11",
                             "nombre":  "Resident Evil 2",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/residentevil2ps4.jpg"
+                            "imagen": "../Images/PS4/residentevil2ps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "12",
                             "nombre":  "Rise of Tomb Raider",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/risetombraiderps4.jpg"
+                            "imagen": "../Images/PS4/risetombraiderps4.jpg",
+                            "stock" : 10
                         },
                         {
                             "id": "13",
                             "nombre":  "Uncharted 4",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/unchartedps4.jpg"
+                            "imagen": "../Images/PS4/unchartedps4.jpg",
+                            "stock" : 10         
                         },
                         {
                             "id": "14",
                             "nombre":  "Until Down",
                             "precio": 5000,
-                            "imagen": "../Images/PS4/untildownps4.jpg"
+                            "imagen": "../Images/PS4/untildownps4.jpg",
+                            "stock" : 10
                         }
                 ],
             
